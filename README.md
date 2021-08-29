@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Jose
 - 👀 I’m interested in applying computational biology techniques to tissue regeneration, gene therapy and genomics.
-- 🌱 I’m currently learning computational biology, drug delvery and synhetic biology.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 🌱 I’m currently learning computational biology, drug delivery and synhetic biology.
+- 💞️ I’m looking to collaborate on course work. 
+- 📫 How to reach me jfchavez4@berkeley.edu
 
 <!---
 jchavez72/jchavez72 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
