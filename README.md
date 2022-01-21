@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jose
 - 👀 I’m interested in applying computational biology techniques to tissue regeneration, gene therapy and genomics.
-- 🌱 I’m currently learning computational biology, drug delivery and synhetic biology.
+- 🌱 I’m currently learning about computational biology and programming. 
 - 💞️ I’m looking to collaborate on course work. 
 - 📫 How to reach me jfchavez4@berkeley.edu
 
