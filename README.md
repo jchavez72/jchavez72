@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Jose
 - 👀 I’m interested in applying computational biology techniques to tissue regeneration, gene therapy and genomics.
-- 🌱 I’m currently learning about computational biology and programming. 
-- 💞️ I’m looking to collaborate on course work. 
+- 🌱 I’m currently exploring a career in data analysis.  
 - 📫 How to reach me jfchavez4@berkeley.edu
 
 <!---
